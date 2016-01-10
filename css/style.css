@@ -274,6 +274,18 @@ section.success a.active {
   }
 }
 
+.portfolio-example {
+  height: 260px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.site-detail {
+  text-align: center;
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
