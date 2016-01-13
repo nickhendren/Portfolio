@@ -1,4 +1,4 @@
-# [Nick Hendren Portfolio] - [Visit nickhendren.com](http://www.nickhendren.com)
+# Nick Hendren Portfolio - [Visit nickhendren.com](http://www.nickhendren.com)
 
 nickhendren.com is the portfolio site for Nick Hendren. It contains all of the projects I completed for [General Assembly's Web Development Immersive](https://generalassemb.ly/education/web-development-immersive).
 
